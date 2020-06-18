@@ -1,5 +1,5 @@
 def foo():
-    print("hello")
+    print("hello, ")
     print("world")
     
 foo()
